@@ -1,10 +1,10 @@
 # OpenVPN for Docker
 
-[![Build Status](https://travis-ci.org/kylemanna/docker-openvpn.svg)](https://travis-ci.org/kylemanna/docker-openvpn)
-[![Docker Stars](https://img.shields.io/docker/stars/kylemanna/openvpn.svg)](https://hub.docker.com/r/kylemanna/openvpn/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/kylemanna/openvpn.svg)](https://hub.docker.com/r/kylemanna/openvpn/)
-[![ImageLayers](https://images.microbadger.com/badges/image/kylemanna/openvpn.svg)](https://microbadger.com/#/images/kylemanna/openvpn)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkylemanna%2Fdocker-openvpn.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkylemanna%2Fdocker-openvpn?ref=badge_shield)
+[![Build Status](https://travis-ci.org/EasyPi/docker-openvpn-arm.svg)](https://travis-ci.org/EasyPi/docker-openvpn-arm)
+[![Docker Stars](https://img.shields.io/docker/stars/easypi/openvpn-arm.svg)](https://hub.docker.com/r/easypi/openvpn-arm/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/easypi/openvpn-arm.svg)](https://hub.docker.com/r/easypi/openvpn-arm/)
+[![ImageLayers](https://images.microbadger.com/badges/image/easypi/openvpn-arm.svg)](https://microbadger.com/#/images/easypi/openvpn-arm)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Feasypi%2Fdocker-openvpn-arm.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Feasypi%2Fdocker-openvpn-arm?ref=badge_shield)
 
 
 OpenVPN server in a Docker container complete with an EasyRSA PKI CA.
